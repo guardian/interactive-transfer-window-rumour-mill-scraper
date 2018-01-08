@@ -1,0 +1,7 @@
+while true
+do
+    npm run deploylive
+    echo "Waiting 30 minutes"
+    sleep 1800
+    echo "Running..."
+done
